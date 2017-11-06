@@ -10,7 +10,7 @@
                 x:Name="btn_buscar" 
                 Text="Buscar reserva" 
                 TextColor="White" 
-                FontSize="10" 
+                FontSize="15"
                 Margin="10,5,10,20" 
                 BackgroundColor="Orange"
                 Clicked="btn_buscar_Clicked"

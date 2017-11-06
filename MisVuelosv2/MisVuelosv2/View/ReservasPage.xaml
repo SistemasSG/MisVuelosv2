@@ -50,7 +50,7 @@
                 x:Name="btn_volver" 
                 Text="Reservar otro vuelo" 
                 TextColor="White" 
-                FontSize="10" 
+                FontSize="15"
                 Margin="10,5,10,20" 
                 BackgroundColor="Orange"
                 Clicked="btn_volver_Clicked"

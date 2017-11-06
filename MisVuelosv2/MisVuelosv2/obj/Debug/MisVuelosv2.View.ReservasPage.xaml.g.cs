@@ -11,8 +11,8 @@
 namespace MisVuelosv2.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Developer\\documents\\visual studio 2017\\Projects\\MisVuelosv2\\MisVuelosv2\\" +
-        "MisVuelosv2\\View\\ReservasPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Developer\\Documents\\GitHub\\MisVuelosv2\\MisVuelosv2\\MisVuelosv2\\View\\Rese" +
+        "rvasPage.xaml")]
     public partial class ReservasPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

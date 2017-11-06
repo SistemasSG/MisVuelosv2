@@ -15,6 +15,7 @@
                 x:Name="Buscar" 
                 Text="Buscar vuelos" 
                 Margin="10,15,10,0"  
+                FontSize="15"
                 Clicked="Buscar_Clicked"  
                 BackgroundColor="Orange" 
                 TextColor="White" ></Button>

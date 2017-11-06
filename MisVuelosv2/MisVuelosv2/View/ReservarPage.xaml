@@ -11,7 +11,7 @@
                 <Entry x:Name="edad" Placeholder="Edad" Keyboard="Numeric" FontSize="12" Margin="5,0,0,0"></Entry>
                 <Entry x:Name="asientos" Placeholder="Cantidad de asientos" Keyboard="Numeric" FontSize="12" Margin="5,0,0,0"></Entry>
 
-                <Button x:Name="reservar" Clicked="reservar_Clicked" Text="Reservar" TextColor="White" BackgroundColor="Orange" Margin="5,10,0,0" ></Button>
+                <Button x:Name="reservar" Clicked="reservar_Clicked" Text="Reservar" TextColor="White" FontSize="15" BackgroundColor="Orange" Margin="5,10,0,0" ></Button>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>
