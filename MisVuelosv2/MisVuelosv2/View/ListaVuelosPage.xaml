@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MisVuelosv2.View.ListaVuelosPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Vuelos disponibles" FontSize="15" TextColor="Black" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" Margin="0,10,0,0"/>
+            <ListView x:Name="ListaVuelos" ItemsSource="{Binding ListaVuelosDisponibles}" HasUnevenRows="true" ItemSelected="ListaVuelos_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ContentView>
+                                <StackLayout Padding="20">
+                                    <StackLayout Orientation="Vertical">
+                                        <Label Text="{Binding aerolinea}" TextColor="IndianRed" FontSize="20" FontAttributes="Bold" />
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label Text="Precio: $ " TextColor="Gray" FontSize="15"/>
+                                            <Label Text="{Binding precio, StringFormat='{0:F2}'}" TextColor="Gray" FontSize="15"  />
+                                        </StackLayout>
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label Text="Hora salida: " TextColor="Gray" FontSize="12"/>
+                                            <Label Text="{Binding fecha,StringFormat='{0:hh:mm tt}'}" TextColor="Gray" FontSize="10" />
+                                        </StackLayout>
+                                    </StackLayout>
+                                </StackLayout>
+                            </ContentView>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

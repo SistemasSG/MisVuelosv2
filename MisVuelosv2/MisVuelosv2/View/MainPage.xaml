@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MisVuelosv2.View.MainPage"
+             BindingContext="{Binding MainPage,Source={StaticResource Locator}}"
+             >
+
+    <ContentPage.Content>
+        <StackLayout Padding="20" Orientation="Vertical" BackgroundColor="WhiteSmoke">
+            <Label Text="¡Comienza tu reserva ahora!" Margin="10,20,10,10" FontSize="14" HorizontalOptions="CenterAndExpand" TextColor="Black" />
+            <Picker x:Name="pck_origen" ItemsSource="{Binding ListaCiudades}" ItemDisplayBinding="{Binding ciudad}" Title="Origen" Margin="5,10,10,5" ></Picker>
+            <Picker x:Name="pck_destino" ItemsSource="{Binding ListaCiudades}" ItemDisplayBinding="{Binding ciudad}" Title="Destino" Margin="5,10,10,5"></Picker>
+            <DatePicker x:Name="dp_fecha"></DatePicker>
+            <Button 
+                x:Name="Buscar" 
+                Text="Buscar vuelos" 
+                Margin="10,15,10,0"  
+                Clicked="Buscar_Clicked"  
+                BackgroundColor="Orange" 
+                TextColor="White" ></Button>
+            <Button 
+                x:Name="btn_reservas" 
+                Text="Consulta tus reservas" 
+                TextColor="White" 
+                FontSize="10" 
+                Margin="10,5,10,10" 
+                BackgroundColor="DarkBlue"
+                Clicked="btn_reservas_Clicked"
+                />
+            <Button 
+                x:Name="btn_iniciar" 
+                Text="Iniciar vuelos" 
+                TextColor="White" 
+                FontSize="10" 
+                Margin="10,5,10,20" 
+                BackgroundColor="DarkGreen"
+                Clicked="btn_iniciar_Clicked"
+                IsVisible="False"
+                />
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
