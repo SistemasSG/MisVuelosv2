@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using Foundation;
-using UIKit;
-using System.Runtime.CompilerServices;
-using MisVuelosv2.iOS;
+﻿using MisVuelosv2.iOS;
+using System;
 using System.IO;
+using Xamarin.Forms;
 
 [assembly: Dependency(typeof(FileHelper))]
 namespace MisVuelosv2.iOS
