@@ -60,7 +60,8 @@ namespace MisVuelosv2.View
                 else
                 {
                     var client = await App.Database.GetClientesAsync();
-                    _precioasiento = App.Database.GetVuelosAsync().Result.Where(x => x.ID == Id_vuelo).FirstOrDefault().precio;
+                    var _vuelo = App.Database.GetVueloAsync(Id_vuelo).Result;
+                    _precioasiento = _vuelo.precio;
                     var _reserva = Guid.NewGuid();
 
                     await App.Database.RegistrarReservacion(
@@ -71,11 +72,10 @@ namespace MisVuelosv2.View
                             asientos = Convert.ToInt32(asientos.Text),
                             reserva = _reserva.ToString().Substring(0, 5).ToUpper(),
                             pago = Convert.ToInt32(asientos.Text) * _precioasiento,
-                            fecha = DateTime.Now
+                            fecha = _vuelo.fecha.Value
                         }
                         );
 
-                    var _vuelo = App.Database.GetVueloAsync(Id_vuelo).Result;
                     var _total_asientos = App.Database.GetReservacionesAsync().Result.Where(x => x.id_vuelo == Id_vuelo).ToList();
                     var _asientos_ocupados = _total_asientos.Sum(y => y.asientos);
 

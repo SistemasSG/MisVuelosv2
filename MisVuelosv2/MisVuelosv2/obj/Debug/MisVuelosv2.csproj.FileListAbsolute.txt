@@ -24,3 +24,29 @@ c:\users\developer\documents\visual studio 2017\Projects\MisVuelosv2\MisVuelosv2
 c:\users\developer\documents\visual studio 2017\Projects\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.View.BuscarReservaPage.xaml.g.cs
 c:\users\developer\documents\visual studio 2017\Projects\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.View.ReservasPage.xaml.g.cs
 C:\Users\Developer\documents\visual studio 2017\Projects\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\MisVuelosv2.dll
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\MisVuelosv2.pdb
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\SQLite-net.dll
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\SQLite-net.pdb
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\SQLite-net.xml
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.View.MainPage.xaml.g.cs
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.App.xaml.g.cs
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.View.ListaVuelosPage.xaml.g.cs
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.View.ReservarPage.xaml.g.cs
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.View.BuscarReservaPage.xaml.g.cs
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.View.ReservasPage.xaml.g.cs
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.dll
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.pdb

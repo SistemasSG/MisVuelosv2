@@ -6,9 +6,10 @@
     <Application.Resources>
         <ResourceDictionary>
             <infra:InstaceLocator x:Key="Locator"></infra:InstaceLocator>
+
         </ResourceDictionary>
         <!-- Application resource dictionary -->
-
+      
 
     </Application.Resources>
 </Application>
