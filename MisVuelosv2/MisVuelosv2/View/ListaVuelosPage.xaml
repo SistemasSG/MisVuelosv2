@@ -19,7 +19,11 @@
                                         </StackLayout>
                                         <StackLayout Orientation="Horizontal">
                                             <Label Text="Hora salida: " TextColor="Gray" FontSize="12"/>
-                                            <Label Text="{Binding fecha,StringFormat='{0:hh:mm tt}'}" TextColor="Gray" FontSize="10" />
+                                            <Label Text="{Binding fecha,StringFormat='{0:hh:mm tt}'}" TextColor="Gray" FontSize="12" />
+                                        </StackLayout>
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label Text="Asientos disponibles: " TextColor="Gray" FontSize="12"/>
+                                            <Label Text="{Binding asientos_dis}" TextColor="Gray" FontSize="12" />
                                         </StackLayout>
                                     </StackLayout>
                                 </StackLayout>
