@@ -52,7 +52,7 @@
                 TextColor="White" 
                 FontSize="10" 
                 Margin="10,5,10,20" 
-                BackgroundColor="DarkGreen"
+                BackgroundColor="Orange"
                 Clicked="btn_volver_Clicked"
                 />
             </StackLayout>

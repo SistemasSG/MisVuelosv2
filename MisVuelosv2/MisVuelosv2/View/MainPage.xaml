@@ -24,7 +24,7 @@
                 TextColor="White" 
                 FontSize="10" 
                 Margin="10,5,10,10" 
-                BackgroundColor="DarkBlue"
+                BackgroundColor="DarkOrange"
                 Clicked="btn_reservas_Clicked"
                 />
             <Button 

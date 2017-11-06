@@ -11,7 +11,7 @@
 namespace MisVuelosv2 {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\developer\\documents\\visual studio 2017\\Projects\\MisVuelosv2\\MisVuelosv2\\" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Developer\\documents\\visual studio 2017\\Projects\\MisVuelosv2\\MisVuelosv2\\" +
         "MisVuelosv2\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
