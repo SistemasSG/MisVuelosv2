@@ -40,7 +40,6 @@ C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debu
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.csprojResolveAssemblyReference.cache
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.csproj.CoreCompileInputs.cache
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.View.MainPage.xaml.g.cs
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.App.xaml.g.cs
@@ -50,3 +49,4 @@ C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debu
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.View.ReservasPage.xaml.g.cs
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.dll
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.pdb
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2\obj\Debug\MisVuelosv2.csprojResolveAssemblyReference.cache

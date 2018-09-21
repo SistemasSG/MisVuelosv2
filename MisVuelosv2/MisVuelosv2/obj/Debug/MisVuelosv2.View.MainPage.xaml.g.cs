@@ -31,7 +31,7 @@ namespace MisVuelosv2.View {
         private global::Xamarin.Forms.Button btn_reservas;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Button btn_iniciar;
+        private global::MisVuelosv2.Custom.Boton btn_iniciar;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
@@ -41,7 +41,7 @@ namespace MisVuelosv2.View {
             dp_fecha = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.DatePicker>(this, "dp_fecha");
             Buscar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "Buscar");
             btn_reservas = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "btn_reservas");
-            btn_iniciar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "btn_iniciar");
+            btn_iniciar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::MisVuelosv2.Custom.Boton>(this, "btn_iniciar");
         }
     }
 }

@@ -82,7 +82,6 @@ C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\bin\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\bin\Debug\MisVuelosv2.pdb
-C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\bin\Debug\MisVuelosv2.dll.mdb
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\bin\Debug\FormsViewGroup.pdb
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\bin\Debug\SQLite-net.pdb
@@ -109,6 +108,7 @@ C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\obj\Debug\res\values\styles.xml
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\obj\Debug\R.cs.flag
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\obj\Debug\uploadflags.txt
+C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\bin\Debug\MisVuelosv2.dll.mdb
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\bin\Debug\MisVuelosv2.Android.dll.mdb
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\Developer\Documents\GitHub\MisVuelosv2\MisVuelosv2\MisVuelosv2.Android\obj\Debug\android\assets\MisVuelosv2.Android.dll.mdb

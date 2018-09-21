@@ -79,7 +79,7 @@ namespace MisVuelosv2.ViewModel
                             asientos = item.asientos,
                             pago = item.pago,
                             fecha = item.fecha,
-                            aerolinea = "Conviasa",
+                            aerolinea = vuelo.aerolinea,
                             origen = vuelo.origen,
                             destino = vuelo.destino,
                             fecha_vuelo = vuelo.fecha,

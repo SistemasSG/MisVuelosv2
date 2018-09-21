@@ -11,6 +11,7 @@ namespace MisVuelosv2.Infrastructure
     public class InstaceLocator
     {
         public MainPageViewModel MainPage { get; set; }
+
         public InstaceLocator()
         {
             MainPage = new MainPageViewModel();

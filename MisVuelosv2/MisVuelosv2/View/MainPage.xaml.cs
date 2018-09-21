@@ -70,9 +70,9 @@ namespace MisVuelosv2.View
         {
             try
             {
-                //App.Database.EliminarReservaciones();
-                //App.Database.EliminarVuelos();
-                //App.Database.EliminarClientes();
+                App.Database.EliminarReservaciones();
+                App.Database.EliminarVuelos();
+                App.Database.EliminarClientes();
 
                 IniciaVuelos.GetIniciaVuelos();
                 var vc = App.Database.GetVuelosAsync().Result.ToList().Count;

@@ -1,20 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MisVuelosv2.View.BuscarReservaPage">
+<ContentPage
+    x:Class="MisVuelosv2.View.BuscarReservaPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
     <ContentPage.Content>
         <StackLayout Padding="20">
-            <Label Text="Encuentra tu reserva aqui" TextColor="Black" FontSize="15" HorizontalOptions="CenterAndExpand" Margin="0,15,0,15"/>
-            <Entry x:Name="documento" Placeholder="Cedula o Codigo de reserva" FontSize="15" Margin="10,15,0,15"/>
-            <Button 
-                x:Name="btn_buscar" 
-                Text="Buscar reserva" 
-                TextColor="White" 
+            <Label
+                Margin="0,15,0,15"
                 FontSize="15"
-                Margin="10,5,10,20" 
+                HorizontalOptions="CenterAndExpand"
+                Text="Encuentra tu reserva aqui"
+                TextColor="Black" />
+            <Entry
+                x:Name="documento"
+                Margin="10,15,0,15"
+                FontSize="15"
+                Placeholder="Cedula o Codigo de reserva" />
+            <Button
+                x:Name="btn_buscar"
+                Margin="10,5,10,20"
                 BackgroundColor="Orange"
                 Clicked="btn_buscar_Clicked"
-                />
+                FontSize="15"
+                Text="Buscar reserva"
+                TextColor="White" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

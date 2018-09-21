@@ -1,17 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MisVuelosv2.View.ReservarPage">
+<ContentPage
+    x:Class="MisVuelosv2.View.ReservarPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
     <ContentPage.Content>
         <StackLayout>
             <StackLayout Padding="20" BackgroundColor="WhiteSmoke">
-                <Label Text="Datos de la reserva" TextColor="Black" FontSize="15" Margin="5,0,0,15" />
-                <Entry x:Name="nombre" Placeholder="Nombre" FontSize="12" Margin="5,0,0,0"></Entry>
-                <Entry x:Name="cedula" Placeholder="Cedula" Keyboard="Numeric" FontSize="12" Margin="5,0,0,0" ></Entry>
-                <Entry x:Name="edad" Placeholder="Edad" Keyboard="Numeric" FontSize="12" Margin="5,0,0,0"></Entry>
-                <Entry x:Name="asientos" Placeholder="Cantidad de asientos" Keyboard="Numeric" FontSize="12" Margin="5,0,0,0"></Entry>
+                <Label
+                    Margin="5,0,0,15"
+                    FontSize="15"
+                    Text="Datos de la reserva"
+                    TextColor="Black" />
+                <Entry
+                    x:Name="nombre"
+                    Margin="5,0,0,0"
+                    FontSize="12"
+                    Placeholder="Nombre">
+                    <Entry.Triggers>
+                        <Trigger TargetType="Entry" Property="IsFocused" Value="True">
+                            <Setter Property="BackgroundColor" Value="LightYellow" />
+                        </Trigger>
+                    </Entry.Triggers>
+                </Entry>
+                <Entry
+                    x:Name="cedula"
+                    Margin="5,0,0,0"
+                    FontSize="12"
+                    Keyboard="Numeric"
+                    Placeholder="Cedula" />
+                <Entry
+                    x:Name="edad"
+                    Margin="5,0,0,0"
+                    FontSize="12"
+                    Keyboard="Numeric"
+                    Placeholder="Edad" />
+                <Entry
+                    x:Name="asientos"
+                    Margin="5,0,0,0"
+                    FontSize="12"
+                    Keyboard="Numeric"
+                    Placeholder="Cantidad de asientos" />
 
-                <Button x:Name="reservar" Clicked="reservar_Clicked" Text="Reservar" TextColor="White" FontSize="15" BackgroundColor="Orange" Margin="5,10,0,0" ></Button>
+                <Button
+                    x:Name="reservar"
+                    Margin="5,10,0,0"
+                    BackgroundColor="Orange"
+                    Clicked="reservar_Clicked"
+                    FontSize="15"
+                    Text="Reservar"
+                    TextColor="White" />
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>

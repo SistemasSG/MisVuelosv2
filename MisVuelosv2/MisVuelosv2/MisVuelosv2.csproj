@@ -38,6 +38,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Custom\Boton.cs" />
     <Compile Include="IFileHelper.cs" />
     <Compile Include="Infrastructure\InstanceLocator.cs" />
     <Compile Include="Model\Data.cs" />
